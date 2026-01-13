@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f8fafc; /* Um cinza bem clarinho para o fundo */
+  margin: 0;
+  font-family: sans-serif;
+}
